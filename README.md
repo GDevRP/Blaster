@@ -12,7 +12,7 @@ To gain proficency in game development start to finish, and create solid foundat
 - Retarget animations
   - From the Unreal Engine Mannequin Animations to Blaster Character
   - Mixamo Animations to Blaster Character 
-  - Using IK Rig and IK retargeting asstes
+  - Using IK Rig and IK retargeting assets
 
 - Character class and Blueprint
   - Add Camera and Spring Arm
