@@ -68,10 +68,10 @@ void AWeapon::OnSphereOverlap(UPrimitiveComponent* OverlappedComponent, AActor* 
 void AWeapon::OnSphereEndOverlap(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex)
 {
 	ABlasterCharacter* BlasterCharacter = Cast<ABlasterCharacter>(OtherActor);
-		if (BlasterCharacter)
-			{
-				BlasterCharacter->SetOverLappingWeapon(nullptr);
-			}
+	if (BlasterCharacter)
+	{
+		BlasterCharacter->SetOverLappingWeapon(nullptr);
+	}
 }
 
 void AWeapon::ShowPickupWidget(bool bShowWidget)
