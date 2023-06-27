@@ -18,6 +18,7 @@ To gain proficency in game development start to finish, and create solid foundat
   - Add Camera and Spring Arm
   - Add basic movment
   - Add basic Animation blueprint, Blendspace
+  - Connect A Combat Component 
      
 - Character Network Roles
   - Seamless travel and Lobby
@@ -26,5 +27,9 @@ To gain proficency in game development start to finish, and create solid foundat
   - Weapon Class
   - Pickup Widget
   - Variable Replication
-  - Equip Weapons Serverside only Right Now
+  - Equip Weapons
+  - Equip Animation Pose
+  - Equip Animation Crouching Pose
+  - Aiming With Weapon
+    
 
