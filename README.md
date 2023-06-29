@@ -1,8 +1,8 @@
 # Blaster - Project
 Learning Unreal Engine 5, and C++
-To gain proficiency in game development from start to finish, and create a solid foundation 
+To gain proficiency in game development from start to finish and create a solid foundation 
 # Game Goals
-- Competitive Multiplayer Team deathmatch game mode, (Possibly implement more game modes)
+- Competitive Multiplayer Team deathmatch game mode (Possibly implement more game modes)
 - Provide an online session for many players to join
 - Multiple weapons, Hitscan, Projectile, Scatter, Splash Damage
 - **Serverside Rewind** 
@@ -34,5 +34,6 @@ To gain proficiency in game development from start to finish, and create a solid
   - Equip Animation Crouching Pose
   - Aiming With Weapon
   - Aim Offsets
+  - FABRIK IK for Left Hand Placement on Weapons
     
 
